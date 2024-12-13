@@ -3,6 +3,7 @@
 #
 
 from count_module import f
+
 x = int(input('Enter number (x): '))
 y = int(input('Enter number (y): '))
 
